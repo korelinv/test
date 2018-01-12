@@ -10,7 +10,7 @@
       firstname: 'Иван',
       lastname: 'Иванов',
       patronymic: 'Иванович',
-      countryId: '1',
+      countryId: 1,
       comment: null
   }
 
